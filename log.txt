@@ -1,0 +1,12 @@
+Starting the process ...
+Calculate all the boxes weight
+Compare the calculated weight with the pallet weight
+Calculate all the pallets weight
+Compare the sold weight with the calculated weight
+Done!
+Starting the process ...
+Calculate all the boxes weight
+Compare the calculated weight with the pallet weight
+Calculate all the pallets weight
+Compare the sold weight with the calculated weight
+Done!
